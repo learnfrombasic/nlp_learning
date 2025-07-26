@@ -23,4 +23,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "spacy>=3.8.7",
     "transformers>=4.53.2",
+    "wandb>=0.21.0",
 ]
